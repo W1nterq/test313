@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QApplication
-from first import First
-from second import Second
+from sfrhb import First
+from filethree import Second
 
 app = QApplication([])
 win1 = First()
